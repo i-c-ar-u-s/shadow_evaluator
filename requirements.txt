@@ -1,0 +1,8 @@
+google-genai
+pypdf
+pandas
+numpy
+scipy
+rich
+fastapi
+streamlit
