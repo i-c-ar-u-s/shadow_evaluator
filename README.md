@@ -1,5 +1,7 @@
 Status - (Currently Being Built)
 
+Open this: https://shadowevaluator.streamlit.app/
+
 Overview
 
 The Shadow Evaluator is an AI-powered governance tool designed to solve a critical problem in higher education: grading inconsistency and accreditation risk. Using a sophisticated Multi-Agent architecture, the system "shadows" human faculty evaluations to ensure every student is graded fairly and against the same global benchmarks.
